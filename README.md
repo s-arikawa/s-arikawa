@@ -37,3 +37,9 @@
 
 ### v1.0 Beta Release
 * I was born on Feb. 6, 1989.
+
+## TeckStack
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,java,js,ts,ruby,cs,md,react,vue,nuxtjs,tailwind,bootstrap,rails,spring,graphql,coffeescript,bash,mongodb,mysql,postgres,gcp,firebase,azure,idea,webstorm,vscode,eclipse,figma,git,github,githubactions,docker,gradle,maven,selenium,notion,windows,apple&perline=10)](https://skillicons.dev)
+
+> 📝 **Note:** I've lined up a bunch of cute icons. Some are ones I use often, while others are ones I've used occasionally.
