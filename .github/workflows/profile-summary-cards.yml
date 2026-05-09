@@ -4,8 +4,8 @@ env:
   FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
 
 on:
-  schedule: # execute every 24 hours
-    - cron: '* */24 * * *'
+  schedule: # execute every month
+    - cron: '0 0 1 * *'
   workflow_dispatch:
 
 jobs:
