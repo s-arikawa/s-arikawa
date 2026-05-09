@@ -11,21 +11,26 @@
 
 
 ## Features
-* Programing Skills
+* Programming Skills
   * Java :coffee:
   * Ruby :gem: :red_circle:
-* Server-side Engineer
+* I am a server-side engineer.
 * Certified Scrum Master by Scrum.inc in 2017 :white_flower:
 
 
 ## Contribute
 * Follow me on Twitter([@clash_m45](https://twitter.com/clash_m45))
-* Send DM
+* Feel free to send me a DM.
 
 ## Change Log
 
+### v37.0 Stable Release
+* I still develop services primarily using Rails, based in Fukuoka Prefecture.
+* I also work as a Customer Reliability Engineer (CRE). I focus on improving customer reliability and developing AI agents.
+
 ### v31.0 Stable Release
-* I am working as an engineer in Fukuoka, Japan.
+* I was working as an engineer in Fukuoka, Japan.
+* I was involved in service development using Rails.
 
 ### v20.0 Stable Release
 * I was working on Java-based system integration in Tokyo.
