@@ -6,6 +6,9 @@
 
 ![](https://komarev.com/ghpvc/?username=s-arikawa&color=brightgreen)
 
+> 📝 **Note:** This commit graph only reflects my personal repository.
+> My work repositories mostly use Ruby and TypeScript.
+
 
 ## Features
 * Programing Skills
